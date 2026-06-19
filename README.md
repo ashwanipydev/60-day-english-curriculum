@@ -1,54 +1,76 @@
-# 60-Day English Curriculum for Hindi Speakers 🇮🇳
+<div align="center">
+  <img src="assets/banner.png" alt="60-Day English Curriculum Banner" width="100%">
 
-A free, structured 60-day English learning curriculum designed for **Hindi-speaking beginner/intermediate learners** who want functional English for **daily life and professional/office communication**.
+  # 60-Day English Curriculum for Hindi Speakers 🇮🇳
+
+  *A free, structured 60-day English learning curriculum designed for Hindi-speaking beginner/intermediate learners who want functional English for daily life and professional/office communication.*
+
+  [![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](LICENSE)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+</div>
 
 > Built for people who want to *use* English confidently — in meetings, emails, conversations, and daily life — not pass a grammar exam.
 
 ---
 
-## Who Is This For?
+## 🌟 Why This Curriculum?
 
-- Hindi speakers learning English for office/professional use
-- Self-learners with 2–3 hours/day to commit for 60 days
-- Anyone who wants practical English over grammar theory
-- People who want Hindi comparisons and examples to understand faster
-
----
-
-## How to Use This
-
-1. Start at [Day 1](Day_01_Sentence_Structure/README.md) — follow it day by day
-2. Each day has a lesson, practice exercises, and a speaking task
-3. Use the [Grammar References](#-grammar-references) as deep-dive chapters when needed
-4. Track your progress with the habit tracker in the curriculum
-5. **Never skip speaking practice** — it is included every single day
+- **Tailored for Hindi Speakers**: Explanations draw natural comparisons to Hindi to help you understand concepts faster.
+- **Office & Professional Use**: Learn to communicate effectively in a corporate environment.
+- **Practical over Theoretical**: Focuses on what you actually need, skipping unnecessary grammar rules.
+- **Comprehensive Daily Routine**: Blends listening, reading, writing, and speaking every single day.
 
 ---
 
-## Daily Schedule (2.5 Hours)
+## 🏗 System Architecture & Curriculum Flow
 
-```
-Morning  (30 min) — LISTENING      : 1 YouTube video + note 3 new phrases
-Midday   (30 min) — VOCABULARY     : Read 1 short article + 5 new words
-Evening  (45 min) — SPEAKING       : Lesson drill + roleplay + record yourself
-Night    (30 min) — WRITING        : 5-10 sentences / short paragraph
-Anytime  (15 min) — MOVIES         : 1 scene from recommended show, repeat dialogues
+```mermaid
+graph TD
+    Start([Day 1]) --> P1[Phase 1: Foundation <br/> Days 1-15]
+    P1 --> P2[Phase 2: Communication <br/> Days 16-30]
+    P2 --> P3[Phase 3: Professional English <br/> Days 31-50]
+    P3 --> P4[Phase 4: Fluency Push <br/> Days 51-60]
+    P4 --> Goal([Day 60: Final Challenge])
+
+    style P1 fill:#d4e157,stroke:#333,stroke-width:2px,color:#000
+    style P2 fill:#81c784,stroke:#333,stroke-width:2px,color:#000
+    style P3 fill:#64b5f6,stroke:#333,stroke-width:2px,color:#000
+    style P4 fill:#ba68c8,stroke:#333,stroke-width:2px,color:#000
 ```
 
 ---
 
-## 60-Day Roadmap
+## ⏰ Daily Workflow
 
-| Phase | Days | Focus |
-|-------|------|-------|
-| **Phase 1: Foundation** | Day 1–15 | Grammar basics, sentence structure, pronunciation |
-| **Phase 2: Communication** | Day 16–30 | Speaking, listening, real conversations |
-| **Phase 3: Professional** | Day 31–50 | Office English, emails, meetings |
-| **Phase 4: Fluency Push** | Day 51–60 | Speed, confidence, thinking in English |
+To succeed, you should dedicate about **2.5 hours per day**. Here is the recommended workflow:
+
+```mermaid
+timeline
+    title Daily Schedule (2.5 Hours)
+    Morning : 30 min - LISTENING : 1 YouTube video + note 3 new phrases
+    Midday : 30 min - VOCABULARY : Read 1 short article + 5 new words
+    Evening : 45 min - SPEAKING : Lesson drill + roleplay + record yourself
+    Night : 30 min - WRITING : 5-10 sentences / short paragraph
+    Anytime : 15 min - MOVIES : 1 scene from recommended show, repeat dialogues
+```
 
 ---
 
-## Phase 1: Foundation (Days 1–15)
+## 🚀 How to Use This
+
+1. **Clone or Bookmark**: Clone this repository or star/bookmark it for easy access.
+2. **Start at Day 1**: Navigate to [Day 1](Day_01_Sentence_Structure/README.md) and follow the instructions.
+3. **Be Consistent**: Each day has a lesson, practice exercises, and a speaking task.
+4. **Grammar References**: Use the [Grammar References](#-grammar-references) as deep-dive chapters when needed.
+5. **Never Skip Speaking**: Speaking practice is included every single day. It's the key to your success!
+
+---
+
+## 📅 60-Day Roadmap
+
+<details open>
+<summary><b>🟢 Phase 1: Foundation (Days 1–15)</b></summary>
+<br>
 
 | Day | Topic | Key Lesson |
 |-----|-------|------------|
@@ -68,9 +90,11 @@ Anytime  (15 min) — MOVIES         : 1 scene from recommended show, repeat dia
 | [Day 14](Day_14_Reading_Confidence/README.md) | Reading Confidence | Chunking + context clues + summarizing |
 | [Day 15](Day_15_Phase1_Assessment/README.md) | Phase 1 Assessment | Self-test + speaking evaluation |
 
----
+</details>
 
-## Phase 2: Communication (Days 16–30)
+<details open>
+<summary><b>🔵 Phase 2: Communication (Days 16–30)</b></summary>
+<br>
 
 | Day | Topic | Key Lesson |
 |-----|-------|------------|
@@ -90,9 +114,11 @@ Anytime  (15 min) — MOVIES         : 1 scene from recommended show, repeat dia
 | [Day 29](Day_29_Presentation_Basics/README.md) | Presentation Basics | Opening, body, closing, Q&A |
 | [Day 30](Day_30_Mid_Course_Review/README.md) | Mid-Course Review | Day 30 progress video |
 
----
+</details>
 
-## Phase 3: Professional English (Days 31–50)
+<details open>
+<summary><b>🟣 Phase 3: Professional English (Days 31–50)</b></summary>
+<br>
 
 | Day | Topic | Speaking Challenge |
 |-----|-------|-------------------|
@@ -117,9 +143,11 @@ Anytime  (15 min) — MOVIES         : 1 scene from recommended show, repeat dia
 | [Day 49](Day_49_Deadline_Negotiation/README.md) | Deadline Negotiation | Negotiate a deadline with your manager |
 | [Day 50](Day_50_Professional_Video/README.md) | Professional Video | Record a 3-min "About Me" video |
 
----
+</details>
 
-## Phase 4: Fluency Push (Days 51–60)
+<details open>
+<summary><b>🟠 Phase 4: Fluency Push (Days 51–60)</b></summary>
+<br>
 
 | Day | Topic | Speaking Challenge |
 |-----|-------|-------------------|
@@ -134,9 +162,11 @@ Anytime  (15 min) — MOVIES         : 1 scene from recommended show, repeat dia
 | [Day 59](Day_59_Professional_Introduction/README.md) | Professional Introduction | Write + speak your polished intro |
 | [Day 60](Day_60_Final_Challenge/README.md) | **FINAL CHALLENGE** | 5-min video: Who am I, what do I do, what are my plans? |
 
+</details>
+
 ---
 
-## Grammar References
+## 📚 Grammar References
 
 Deep-dive chapters for when you need more detail:
 
@@ -145,7 +175,7 @@ Deep-dive chapters for when you need more detail:
 
 ---
 
-## Success Checklist (Day 60 Goals)
+## ✅ Success Checklist (Day 60 Goals)
 
 - [ ] Introduce yourself naturally in English
 - [ ] Write a professional email without major errors
@@ -158,32 +188,25 @@ Deep-dive chapters for when you need more detail:
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-This project is open for contributions!
+This project is open for contributions! We'd love your help to make it better.
 
-- Found an error? Open an issue.
-- Want to add grammar chapters (prepositions, articles, conditionals)? See [CONTRIBUTING.md](CONTRIBUTING.md)
-- Want to translate this for Tamil, Bengali, Telugu, or Marathi speakers? Open a discussion first.
-- Want to add exercises, vocabulary lists, or practice scripts? PRs welcome.
-
----
-
-## License
-
-[CC BY-SA 4.0](LICENSE) — free to use, share, and adapt, even commercially, with credit and same license on adaptations.
+- **Found an error?** Open an issue.
+- **Want to add grammar chapters?** (prepositions, articles, conditionals)? See [CONTRIBUTING.md](CONTRIBUTING.md).
+- **Translation:** Want to translate this for Tamil, Bengali, Telugu, or Marathi speakers? Open a discussion first.
+- **Content:** Want to add exercises, vocabulary lists, or practice scripts? PRs are always welcome.
 
 ---
 
-## Final Words
+## 📄 License
 
-> English sikhne ka ek hi rule hai:
-> **"Every day. A little. Consistently."**
->
-> Start at [Day 1](Day_01_Sentence_Structure/README.md). Don't skip. Progress, not perfection.
+This curriculum is distributed under the [CC BY-SA 4.0](LICENSE) License — free to use, share, and adapt, even commercially, with credit and the same license on adaptations.
 
 ---
 
-*Curriculum designed for: Hindi-speaking beginner/intermediate learners*
-*Duration: 60 days | Daily commitment: 2–3 hours*
-*Focus: Practical, professional, and daily life English*
+<div align="center">
+  <p>English sikhne ka ek hi rule hai:</p>
+  <h3>"Every day. A little. Consistently."</h3>
+  <p>Start at <a href="Day_01_Sentence_Structure/README.md">Day 1</a>. Don't skip. Progress, not perfection.</p>
+</div>
