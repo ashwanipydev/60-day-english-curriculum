@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="60-Day English Curriculum Banner" width="100%">
+  <img src="assets/banner.png" alt="60-Day English Curriculum Banner" width="100% height="20%">
 
   # 60-Day English Curriculum for Hindi Speakers 🇮🇳
 
@@ -166,12 +166,23 @@ timeline
 
 ---
 
-## 📚 Grammar References
+## 📚 Grammar, Reading & Writing Guide
 
-Deep-dive chapters for when you need more detail:
+Deep-dive chapters for when you need more detail on grammar:
 
 - [Modal Verbs](grammar/modal-verbs.md) — can, could, will, would, should, must, may, might, need to
 - [V2 Verb Forms](grammar/v2-verb-forms.md) — 75 essential past-tense verbs grouped by pattern, with a 7-day study plan
+
+### ✍️ Study Plan for Spelling & Writing
+If you struggle with spelling or sentence structure, add these 10-minute daily habits:
+1. **Copywork (5 mins)**: Take one paragraph from an English news article and copy it by hand. This builds muscle memory for correct spelling and sentence structure.
+2. **The "Read Aloud" Check (5 mins)**: After writing an email or journal entry, read it out loud. If you stumble or run out of breath, your sentence is likely too long or grammatically awkward.
+3. **Common Misspellings List**: Keep a running list of words you frequently misspell (e.g., *receive, separate, definitely*) on your phone or notepad. Review it weekly.
+
+### 📖 Exercises for Reading Comprehension
+1. **Active Reading**: Don't just read—highlight! While reading articles or stories, highlight new words in yellow and interesting phrases in green. 
+2. **Summarize**: After reading a short article, close the tab and try to write a 3-sentence summary. Who is it about? What happened? Why does it matter?
+3. **Read What You Love**: Read about your hobbies (tech, sports, cooking) in English instead of Hindi. You will learn faster when the topic naturally interests you.
 
 ---
 
